@@ -1,5 +1,7 @@
 # GitHub Copilot (Beta) Exam preparation
 
+#Documentation currently work in progress
+
 >[!CAUTION]
 > #### BETA EXAM 
 > I made this in order to prepare for the GitHub Copilot Beta exam I had the chance to participate in. Which obviously means there is no guarantee on anything. I added topics afterwards which were asked in the exam and I did not cover in my preparation material before just to be save if I did not make it and have to retake the exam when it goes live.
@@ -13,7 +15,7 @@
 > Besideds the Quiz with the name Quiz GitHub Copilot MS Learn, which was taken from the Microsoft learn modul related to GitHub Copilot all Quizes are AI generated. In my studies i noticed on or 2 questions beeing of I hope i corrected them 
 
 # Intro:
-As I took the GitHub Copilot Exam which required me to prepare on my own as no dedicated material like study guides where available I created my own using [Obsidian](https://obsidian.md/)
+As I took the GitHub Copilot Exam which required me to prepare on my own as no dedicated material like study guides were available I created my own using [Obsidian](https://obsidian.md/)
 Which is my general purpose knowledge management system. I extracted this part for people that might be interested and made sure that the information part of the material is accessible as PDF’s. Also a brief description is included how to use the Obsidian vault part of this repository and it’s more advanced features.
 
 # Contents Overview:
