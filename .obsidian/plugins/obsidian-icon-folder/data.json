@@ -1,0 +1,128 @@
+{
+  "settings": {
+    "migrated": 3,
+    "iconPacksPath": ".obsidian/icons",
+    "fontSize": 16,
+    "emojiStyle": "none",
+    "iconColor": null,
+    "recentlyUsedIcons": [
+      "BoBxBook",
+      "BoBxIdCard",
+      "BoBxQuestionMark",
+      "BoBxTime",
+      "BoBxCalendarExclamation"
+    ],
+    "recentlyUsedIconsSize": 5,
+    "rules": [
+      {
+        "rule": " - Maps of Content",
+        "icon": "BoBxGlobeAlt",
+        "for": "folders",
+        "order": 0
+      },
+      {
+        "rule": " - Projects",
+        "icon": "BoBxsPen",
+        "for": "folders",
+        "order": 1
+      },
+      {
+        "rule": " - Areas",
+        "icon": "BoBxsPackage",
+        "for": "folders",
+        "order": 2
+      },
+      {
+        "rule": " - Resources",
+        "icon": "BoBxsBook",
+        "for": "folders",
+        "order": 3
+      },
+      {
+        "rule": " - Fleeting",
+        "icon": "BoBxsPencil",
+        "for": "folders",
+        "order": 4
+      },
+      {
+        "rule": "- Daily",
+        "icon": "BoBxCalendarEvent",
+        "for": "folders",
+        "order": 5
+      },
+      {
+        "rule": "- Meta",
+        "icon": "BoBxSelection",
+        "for": "folders",
+        "order": 6
+      },
+      {
+        "rule": "- Templates",
+        "icon": "BoBxRuler",
+        "for": "everything",
+        "order": 7
+      },
+      {
+        "rule": "- Permanent",
+        "icon": "BoBxsFile",
+        "for": "everything",
+        "order": 8
+      },
+      {
+        "rule": "- Archives",
+        "icon": "BoBxsArchive",
+        "for": "folders",
+        "order": 9
+      }
+    ],
+    "extraMargin": {
+      "top": 0,
+      "right": 2,
+      "bottom": 0,
+      "left": 0
+    },
+    "iconInTabsEnabled": false,
+    "iconInTitleEnabled": false,
+    "iconInFrontmatterEnabled": false,
+    "iconsBackgroundCheckEnabled": false,
+    "iconsInNotesEnabled": true
+  },
+  "00 - Maps of Content": "BoBxMapAlt",
+  "70 - Inbox": "BoBxsInbox",
+  "70 - Inbox/Obsidian Create a daily template that works for me.md": "BoBxPencil",
+  "70 - Inbox/Obsidian Ideas.md": "BoBxPencil",
+  "70 - Inbox/Obsidian Periodic Reviews.md": "BoBxPencil",
+  "02 - Areas/Certificates/01 - The Plan": "BoBxCalendarAlt",
+  "02 - Areas/Certificates/01 - The Plan/01 - Priorities.md": "BoBxCalendarExclamation",
+  "02 - Areas/Certificates/01 - The Plan/02 - Timeline.md": "BoBxTime",
+  "02 - Areas/Certificates/02 - Specifics/01 - GitHub/Preperation/GitHub Copilot (Beta) Exam/Quiz GitHub Copilot MS Learn.md": "BoBxQuestionMark",
+  "02 - Areas/Certificates/02 - Specifics/01 - GitHub/Preperation/GitHub Copilot (Beta) Exam/Quiz GitHub Copilot AI Generated Run 1.md": "BoBxQuestionMark",
+  "02 - Areas/Certificates/02 - Specifics/01 - GitHub/Preperation/GitHub Copilot (Beta) Exam/Quiz GitHub Copilot AI Generated Run 2.md": "BoBxQuestionMark",
+  "02 - Areas/Certificates/02 - Specifics/01 - GitHub/Preperation/GitHub Copilot (Beta) Exam/Quiz GitHub Copilot AI Generated Run 3.md": "BoBxQuestionMark",
+  "02 - Areas/Certificates/02 - Specifics/01 - GitHub/Preperation/GitHub Copilot (Beta) Exam/Quiz GitHub Copliot AI Generated Features 1.md": "BoBxQuestionMark",
+  "02 - Areas/Certificates/02 - Specifics/01 - GitHub/Preperation/GitHub Copilot (Beta) Exam/Quiz GitHub Copliot AI Generated Features 2.md": "BoBxQuestionMark",
+  "02 - Areas/Certificates/02 - Specifics/01 - GitHub/Preperation/GitHub Copilot (Beta) Exam/Flashcards Features.md": "BoBxIdCard",
+  "Flashcards Features.md": "BoBxIdCard",
+  "Quiz GitHub Copilot AI Generated Run 1.md": "BoBxQuestionMark",
+  "Quiz GitHub Copilot AI Generated Run 2.md": "BoBxQuestionMark",
+  "Quiz GitHub Copilot AI Generated Run 3.md": "BoBxQuestionMark",
+  "Quiz GitHub Copilot MS Learn.md": "BoBxQuestionMark",
+  "Quiz GitHub Copliot AI Generated Features 1.md": "BoBxQuestionMark",
+  "Quiz GitHub Copliot AI Generated Features 2.md": "BoBxQuestionMark",
+  "ObsidianVault/01 - GitHub Copilot Exam Prep.md": "BoBxBook",
+  "ObsidianVault/02 - GitHub Copilot Writeup.md": "BoBxBook",
+  "ObsidianVault/03 - GitHub Copilot MS Learn Q&A.md": "BoBxBook",
+  "ObsidianVault/04 - Plans and Features.md": "BoBxBook",
+  "ObsidianVault/05 - Features Details.md": "BoBxBook",
+  "ObsidianVault/06 - Features sum up.md": "BoBxBook",
+  "ObsidianVault/07 - Additional Stuff.md": "BoBxBook",
+  "ObsidianVault/08 - Post Beta Exam research.md": "BoBxBook",
+  "ObsidianVault/09 - Post Beta Exam notes.md": "BoBxBook",
+  "ObsidianVault/Flashcards Features.md": "BoBxIdCard",
+  "ObsidianVault/Quiz GitHub Copilot AI Generated Run 1.md": "BoBxQuestionMark",
+  "ObsidianVault/Quiz GitHub Copilot AI Generated Run 2.md": "BoBxQuestionMark",
+  "ObsidianVault/Quiz GitHub Copilot AI Generated Run 3.md": "BoBxQuestionMark",
+  "ObsidianVault/Quiz GitHub Copilot MS Learn.md": "BoBxQuestionMark",
+  "ObsidianVault/Quiz GitHub Copliot AI Generated Features 1.md": "BoBxQuestionMark",
+  "ObsidianVault/Quiz GitHub Copliot AI Generated Features 2.md": "BoBxQuestionMark"
+}

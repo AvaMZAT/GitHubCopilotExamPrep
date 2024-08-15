@@ -1,0 +1,231 @@
+{
+  "main": {
+    "id": "c9e0d138ee0be13e",
+    "type": "split",
+    "children": [
+      {
+        "id": "82aec74bd952ccc2",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "6a457e5fabb9fd17",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "ObsidianVault/Quiz GitHub Copliot AI Generated Features 2.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "394b0de764666fd7",
+    "type": "split",
+    "children": [
+      {
+        "id": "eea401b4ffb44112",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "10090ca6ceac8e7f",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "b00dd439a1f907a3",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "b75be2b8ded1c74f",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 479.5
+  },
+  "right": {
+    "id": "ff9f572f9f09caeb",
+    "type": "split",
+    "children": [
+      {
+        "id": "f6807bb5917875fc",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "ac74140ba5496d0d",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "ObsidianVault/Quiz GitHub Copliot AI Generated Features 2.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "3ddf5c64b84e36f6",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "ObsidianVault/Quiz GitHub Copliot AI Generated Features 2.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "0869dd4a5a2b4626",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "9f5613bb1bf7db3a",
+            "type": "leaf",
+            "state": {
+              "type": "all-properties",
+              "state": {
+                "sortOrder": "frequency",
+                "showSearch": false,
+                "searchQuery": ""
+              }
+            }
+          },
+          {
+            "id": "147188f5696804f3",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "ObsidianVault/Quiz GitHub Copliot AI Generated Features 2.md"
+              }
+            }
+          },
+          {
+            "id": "176e6e8856e009df",
+            "type": "leaf",
+            "state": {
+              "type": "file-properties",
+              "state": {
+                "file": "ObsidianVault/Quiz GitHub Copliot AI Generated Features 2.md"
+              }
+            }
+          },
+          {
+            "id": "79540797516e5300",
+            "type": "leaf",
+            "state": {
+              "type": "git-history-view",
+              "state": {}
+            }
+          },
+          {
+            "id": "3e27fa818892bb10",
+            "type": "leaf",
+            "state": {
+              "type": "git-view",
+              "state": {}
+            }
+          }
+        ],
+        "currentTab": 7
+      }
+    ],
+    "direction": "horizontal",
+    "width": 323.5,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": true,
+      "command-palette:Open command palette": false,
+      "graph:Open graph view": false,
+      "daily-notes:Open today's daily note": false,
+      "canvas:Create new canvas": false,
+      "templates:Insert template": true,
+      "obsidian-spaced-repetition:Review flashcards": false,
+      "quiz-generator:Open generator": false
+    }
+  },
+  "active": "10090ca6ceac8e7f",
+  "lastOpenFiles": [
+    "ObsidianVault/Quiz GitHub Copliot AI Generated Features 1.md",
+    "ObsidianVault/Quiz GitHub Copilot MS Learn.md",
+    "ObsidianVault/Quiz GitHub Copilot AI Generated Run 1.md",
+    "ObsidianVault/Flashcards Features.md",
+    "ObsidianVault/09 - Post Beta Exam notes.md",
+    "ObsidianVault/07 - Additional Stuff.md",
+    "ObsidianVault/05 - Features Details.md",
+    "ObsidianVault/04 - Plans and Features.md",
+    "ObsidianVault/03 - GitHub Copilot MS Learn Q&A.md",
+    "ObsidianVault/01 - GitHub Copilot Exam Prep.md",
+    "README.md",
+    "LICENSE",
+    "04 - Plans and Features.md",
+    "08 - Post Beta Exam notes.md",
+    "07 - Additional Stuff.md",
+    "01 - GitHub Copilot Exam Prep.md",
+    "Quiz GitHub Copilot AI Generated Run 2.md",
+    "02 - GitHub Copilot Writeup.md",
+    "06 - Daily/20240809.md",
+    "02 - Areas/Certificates/02 - Specifics/01 - GitHub/Preperation/GitHub Copilot (Beta) Exam/08 - Post Beta Exam notes.md",
+    "02 - Areas/Certificates/02 - Specifics/01 - GitHub/Preperation/GitHub Copilot (Beta) Exam/02 - GitHub Copilot Writeup.md",
+    "02 - Areas/Certificates/02 - Specifics/01 - GitHub/Preperation/GitHub Copilot (Beta) Exam/05 - Features Details.md",
+    "02 - Areas/Certificates/02 - Specifics/01 - GitHub/Preperation/GitHub Copilot (Beta) Exam/06 - Features sum up.md",
+    "06 - Daily/20240808.md",
+    "06 - Features sum up.pdf",
+    "02 - Areas/Certificates/02 - Specifics/01 - GitHub/Preperation/GitHub Copilot (Beta) Exam/07 - Additional Stuff.md",
+    "02 - Areas/Certificates/02 - Specifics/01 - GitHub/Preperation/GitHub Copilot (Beta) Exam/Flashcards Features.md",
+    "02 - Areas/Certificates/02 - Specifics/01 - GitHub/Preperation/GitHub Copilot (Beta) Exam/Quiz GitHub Copliot AI Generated Features 2.md",
+    "Flashcards Features.pdf",
+    "05 - Features Details.pdf",
+    "02 - Areas/Certificates/02 - Specifics/01 - GitHub/Preperation/GitHub Copilot (Beta) Exam",
+    "screenshots/2024-07-31T19-57-10.png",
+    "04 - Permanent/Rezepte/Eis",
+    "04 - Permanent/Rezepte",
+    "02 - Areas/Certificates/02 - Specifics/01 - GitHub/Preperation",
+    "02 - Areas/Certificates/02 - Specifics/01 - GitHub/Done",
+    "screenshots",
+    "Pasted image 20240717214611.png"
+  ]
+}

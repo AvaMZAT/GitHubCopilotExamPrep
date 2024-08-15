@@ -1,0 +1,20 @@
+{
+  "apiKey": "NopeThisAreMycrispyTokensUseYourOwn",
+  "model": "gpt-3.5-turbo-0125",
+  "showNotePath": false,
+  "showFolderPath": false,
+  "randomizeQuestions": true,
+  "language": "English",
+  "numberOfMultipleChoice": 20,
+  "numberOfTrueFalse": 20,
+  "numberOfShortAnswer": 1,
+  "generateMultipleChoice": true,
+  "generateTrueFalse": false,
+  "generateShortAnswer": false,
+  "autoSave": false,
+  "questionSavePath": "",
+  "saveForSpacedRepetition": false,
+  "inlineSeparator": "::",
+  "multilineSeparator": "?",
+  "saveAsCallout": true
+}
