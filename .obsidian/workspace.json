@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "ObsidianVault/Quiz GitHub Copliot AI Generated Features 2.md",
+                "file": "README.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "ObsidianVault/Quiz GitHub Copliot AI Generated Features 2.md",
+                "file": "README.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "ObsidianVault/Quiz GitHub Copliot AI Generated Features 2.md",
+                "file": "README.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -137,7 +137,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "ObsidianVault/Quiz GitHub Copliot AI Generated Features 2.md"
+                "file": "README.md"
               }
             }
           },
@@ -147,7 +147,7 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "ObsidianVault/Quiz GitHub Copliot AI Generated Features 2.md"
+                "file": "README.md"
               }
             }
           },
@@ -187,19 +187,22 @@
       "quiz-generator:Open generator": false
     }
   },
-  "active": "10090ca6ceac8e7f",
+  "active": "6a457e5fabb9fd17",
   "lastOpenFiles": [
+    "ObsidianVault/08 - Post Beta Exam research.md",
+    "ObsidianVault/09 - Post Beta Exam notes.md",
+    "README.md",
+    "ObsidianVault/07 - Additional Stuff.md",
+    "ObsidianVault/02 - GitHub Copilot Writeup.md",
+    "ObsidianVault/01 - GitHub Copilot Exam Prep.md",
+    "ObsidianVault/Quiz GitHub Copliot AI Generated Features 2.md",
     "ObsidianVault/Quiz GitHub Copliot AI Generated Features 1.md",
     "ObsidianVault/Quiz GitHub Copilot MS Learn.md",
     "ObsidianVault/Quiz GitHub Copilot AI Generated Run 1.md",
     "ObsidianVault/Flashcards Features.md",
-    "ObsidianVault/09 - Post Beta Exam notes.md",
-    "ObsidianVault/07 - Additional Stuff.md",
     "ObsidianVault/05 - Features Details.md",
     "ObsidianVault/04 - Plans and Features.md",
     "ObsidianVault/03 - GitHub Copilot MS Learn Q&A.md",
-    "ObsidianVault/01 - GitHub Copilot Exam Prep.md",
-    "README.md",
     "LICENSE",
     "04 - Plans and Features.md",
     "08 - Post Beta Exam notes.md",
@@ -214,9 +217,6 @@
     "02 - Areas/Certificates/02 - Specifics/01 - GitHub/Preperation/GitHub Copilot (Beta) Exam/06 - Features sum up.md",
     "06 - Daily/20240808.md",
     "06 - Features sum up.pdf",
-    "02 - Areas/Certificates/02 - Specifics/01 - GitHub/Preperation/GitHub Copilot (Beta) Exam/07 - Additional Stuff.md",
-    "02 - Areas/Certificates/02 - Specifics/01 - GitHub/Preperation/GitHub Copilot (Beta) Exam/Flashcards Features.md",
-    "02 - Areas/Certificates/02 - Specifics/01 - GitHub/Preperation/GitHub Copilot (Beta) Exam/Quiz GitHub Copliot AI Generated Features 2.md",
     "Flashcards Features.pdf",
     "05 - Features Details.pdf",
     "02 - Areas/Certificates/02 - Specifics/01 - GitHub/Preperation/GitHub Copilot (Beta) Exam",
