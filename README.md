@@ -1,12 +1,12 @@
 # GitHub Copilot (Beta) Exam preparation
 
->[!warning] BETA EXAM 
+>[!WARNING] BETA EXAM 
 > I made this in order to prepare for the GitHub Copilot Beta exam I had the chance to participate in. Which obviously means there is no guarantee on anything. I added topics afterwards which were asked in the exam and I did not cover in my preparation material before just to be save if I did not make it and have to retake the exam when it goes live.
 
->[!iinfo] Keeping up-to-date/Contribution
+>[!INFO] Keeping up-to-date/Contribution
 > In case I passed the exam I obviously will not update this repository. Pull requests for corrections and updates are of course welcome.
 
->[!important]  Important note
+>[!IMPROTANT]  Important note
 > Besideds the Quiz with the name Quiz GitHub Copilot MS Learn, which was taken from the Microsoft learn modul related to GitHub Copilot all Quizes are AI generated. In my studies i noticed on or 2 questions beeing of I hope i corrected them 
 
 # Intro:
