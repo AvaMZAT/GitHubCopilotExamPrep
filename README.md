@@ -1,6 +1,6 @@
 # GitHub Copilot (Beta) Exam preparation
 
-#Documentation currently work in progress
+## **Documentation currently work in progress**
 
 >[!CAUTION]
 > #### BETA EXAM 
