@@ -63,17 +63,23 @@ Go to [https://obsidian.md/](https://obsidian.md/) and Download Obsidian for you
 
 ### basic obsidian usage
 Launch Obsidian and on this start screen click the open button and select the main directory of the repository you just cloned.
-![[20240816185635.png]]
-now in Obsidian the Vault should be opened an in the left hand tree view you should have all the elements of the repository like this:
-![[20240816185609.png]]
+
+<img src="https://github.com/AvaMZAT/GitHubCopilotExamPrep/blob/main/images/20240816185635.png" width="300">
+
+Now in Obsidian the Vault should be opened an in the left hand tree view you should have all the elements of the repository like this:
+
+<img src="https://github.com/AvaMZAT/GitHubCopilotExamPrep/blob/main/images/20240816185609.png" width="300">
+
 ### use flashcards
 You want to use flashcards for spaced repetition? On the left side in the toolbar there is a “Review Flashcards” button. Now double click on the “features” entry in the spaced repetition screen and the flashcards exercise will begin:
-![[20240816190652.png]]
-![[20240816190811.png]]
+<img src="https://github.com/AvaMZAT/GitHubCopilotExamPrep/blob/main/images/20240816190652.png" width="500">
+<img src="https://github.com/AvaMZAT/GitHubCopilotExamPrep/blob/main/images/20240816190811.png" width="500">
+
 Interested in details on the space repetition? Find them here: [Spaced Repetitions plugin GitHub](https://github.com/st3v3nmw/obsidian-spaced-repetition)
 ### use quizzes
 All quizzes available in the vault are mentioned in the list above and also are recognized by the question mark icons on the pages left. To start a quiz right click on the Quiz you want to start and select “Open quiz from this note” => here we go
-![[20240816191226.png]]
+
+<img src="https://github.com/AvaMZAT/GitHubCopilotExamPrep/blob/main/images/20240816191226.png" width="500">
 
 ## H4ckz0r 3l1t3:
 This section explains when using Obsidian how to generate your own Quizzes using AI and get your own flashcards
