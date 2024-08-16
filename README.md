@@ -12,7 +12,7 @@
 
 >[!IMPORTANT]
 > #### Important note
-> Besideds the Quiz with the name Quiz GitHub Copilot MS Learn, which was taken from the Microsoft learn modul related to GitHub Copilot all Quizes are AI generated. In my studies i noticed on or 2 questions beeing of I hope i corrected them 
+> Besides the Quiz with the name Quiz GitHub Copilot MS Learn, which was taken from the Microsoft learn modul related to GitHub Copilot all Quizes are AI generated. In my studies i noticed on or 2 questions beeing of I hope i corrected them 
 
 # Intro:
 As I took the GitHub Copilot Exam which required me to prepare on my own as no dedicated material like study guides were available I created my own using [Obsidian](https://obsidian.md/)
@@ -48,17 +48,35 @@ I will not mention the extensions. If using the pdfs it will be .pdf. If using O
 
 # Usage
 ## Basic:
-Just go to the pdfs directory have a look at the material in your preferred pdf viewing tool.
+Go to the pdfs directory have a look at the material in your preferred pdf viewing tool.
 ## Pro:
 This section explains how to get this working within Obsidian and use the existing Quizzes and Flashcards.
-### Setting up Obsidian
 ### cloning the repository
+Make sure to have GIT installed otherwise install it from [GIT](https://git-scm.com/downloads)
+After that go to the directory in which you want to clone the repository in the command line and issue this command:
+```
+git clone https://github.com/AvaMZAT/GitHubCopilotExamPrep.git
+```
+All of the repository should now be on your machine.
+### Setting up Obsidian
+Go to [https://obsidian.md/](https://obsidian.md/) and Download Obsidian for your preferred OS before 
+
 ### basic obsidian usage
+Launch Obsidian and on this start screen click the open button and select the main directory of the repository you just cloned.
+![[Pasted image 20240816185635.png]]
+now in Obsidian the Vault should be opened an in the left hand tree view you should have all the elements of the repository like this:
+![[Pasted image 20240816185609.png]]
 ### use flashcards
+You want to use flashcards for spaced repetition? On the left side in the toolbar there is a “Review Flashcards” button. Now double click on the “features” entry in the spaced repetition screen and the flashcards exercise will begin:
+![[Pasted image 20240816190652.png]]
+![[Pasted image 20240816190811.png]]
+Interested in details on the space repetition? Find them here: [Spaced Repetitions plugin GitHub](https://github.com/st3v3nmw/obsidian-spaced-repetition)
 ### use quizzes
+All quizzes available in the vault are mentioned in the list above and also are recognized by the question mark icons on the pages left. To start a quiz right click on the Quiz you want to start and select “Open quiz from this note” => here we go
+![[Pasted image 20240816191226.png]]
 
 ## H4ckz0r 3l1t3:
-This section explains when using Obsidian how to generate your own Quizes using AI and get your own flashcards
+This section explains when using Obsidian how to generate your own Quizzes using AI and get your own flashcards
 
 ### create further flashcards
 ### setup OpenAPI for quiz engine
