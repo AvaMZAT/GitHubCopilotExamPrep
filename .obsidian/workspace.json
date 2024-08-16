@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "82aec74bd952ccc2",
+        "id": "8be6299f8598500e",
         "type": "tabs",
         "children": [
           {
-            "id": "6a457e5fabb9fd17",
+            "id": "e3d66f7ea9d1d428",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -187,11 +187,22 @@
       "quiz-generator:Open generator": false
     }
   },
-  "active": "6a457e5fabb9fd17",
+  "active": "e3d66f7ea9d1d428",
   "lastOpenFiles": [
-    "ObsidianVault/08 - Post Beta Exam research.md",
-    "ObsidianVault/09 - Post Beta Exam notes.md",
+    "Pasted image 20240816191226.png",
+    "Pasted image 20240816190811.png",
+    "Pasted image 20240816190652.png",
+    "Untitled.canvas",
     "README.md",
+    "ObsidianVault/Flashcards Features.md",
+    "Pasted image 20240816185635.png",
+    "Pasted image 20240816185609.png",
+    "ObsidianVault/09 - Post Beta Exam notes.md",
+    "pdfs/09 - Post Beta Exam notes.pdf",
+    "pdfs/08 - Post Beta Exam research.pdf",
+    "Pasted image 20240816185245.png",
+    "Pasted image 20240816185105.png",
+    "ObsidianVault/08 - Post Beta Exam research.md",
     "ObsidianVault/07 - Additional Stuff.md",
     "ObsidianVault/02 - GitHub Copilot Writeup.md",
     "ObsidianVault/01 - GitHub Copilot Exam Prep.md",
@@ -199,7 +210,6 @@
     "ObsidianVault/Quiz GitHub Copliot AI Generated Features 1.md",
     "ObsidianVault/Quiz GitHub Copilot MS Learn.md",
     "ObsidianVault/Quiz GitHub Copilot AI Generated Run 1.md",
-    "ObsidianVault/Flashcards Features.md",
     "ObsidianVault/05 - Features Details.md",
     "ObsidianVault/04 - Plans and Features.md",
     "ObsidianVault/03 - GitHub Copilot MS Learn Q&A.md",
@@ -215,7 +225,6 @@
     "02 - Areas/Certificates/02 - Specifics/01 - GitHub/Preperation/GitHub Copilot (Beta) Exam/02 - GitHub Copilot Writeup.md",
     "02 - Areas/Certificates/02 - Specifics/01 - GitHub/Preperation/GitHub Copilot (Beta) Exam/05 - Features Details.md",
     "02 - Areas/Certificates/02 - Specifics/01 - GitHub/Preperation/GitHub Copilot (Beta) Exam/06 - Features sum up.md",
-    "06 - Daily/20240808.md",
     "06 - Features sum up.pdf",
     "Flashcards Features.pdf",
     "05 - Features Details.pdf",
@@ -224,8 +233,6 @@
     "04 - Permanent/Rezepte/Eis",
     "04 - Permanent/Rezepte",
     "02 - Areas/Certificates/02 - Specifics/01 - GitHub/Preperation",
-    "02 - Areas/Certificates/02 - Specifics/01 - GitHub/Done",
-    "screenshots",
     "Pasted image 20240717214611.png"
   ]
 }

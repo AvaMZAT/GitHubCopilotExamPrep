@@ -1,7 +1,7 @@
 {
   "settings": {
     "flashcardEasyText": "Got It",
-    "flashcardGoodText": "Parital",
+    "flashcardGoodText": "Partial",
     "flashcardHardText": "Too Hard",
     "flashcardTags": [
       "#flashcards/GitHubCopilot/Features"
