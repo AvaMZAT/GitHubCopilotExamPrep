@@ -2,11 +2,9 @@
   "showInlineTitle": false,
   "autoPairMarkdown": false,
   "alwaysUpdateLinks": true,
-  "attachmentFolderPath": "99 - Meta/attachments",
+  "attachmentFolderPath": "/",
   "promptDelete": false,
-  "userIgnoreFilters": [
-    "99 - Meta/"
-  ],
+  "userIgnoreFilters": null,
   "showFrontmatter": true,
   "propertiesInDocument": "visible",
   "autoPairBrackets": false,
@@ -14,12 +12,14 @@
   "spellcheck": true,
   "trashOption": "local",
   "newFileLocation": "folder",
-  "newFileFolderPath": "70 - Inbox",
+  "newFileFolderPath": "/",
   "pdfExportSettings": {
     "includeName": true,
     "pageSize": "A4",
     "landscape": false,
     "margin": "2",
     "downscalePercent": 100
-  }
+  },
+  "useMarkdownLinks": true,
+  "newLinkFormat": "absolute"
 }
