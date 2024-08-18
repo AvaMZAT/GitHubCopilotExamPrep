@@ -1,6 +1,5 @@
 # GitHub Copilot (Beta) Exam preparation
 
-## **Documentation currently work in progress**
 
 >[!CAUTION]
 > #### BETA EXAM 
@@ -83,6 +82,52 @@ All quizzes available in the vault are mentioned in the list above and also are 
 ## H4ckz0r 3l1t3:
 This section explains when using Obsidian how to generate your own Quizzes using AI and get your own flashcards
 
-### create further flashcards
-### setup OpenAPI for quiz engine
-### generate new quizzes and parameters
+### Create more flashcard sets
+1. To create further flashcard sets you have to create a new note:
+![ALT image](images/20240818215250.png)
+2. in the new note it is important to create a correct tag at the beginning of the new note:
+```
+#flashcards/GitHubCopilot/MyNewFlashcards
+```
+3. create your new flashcards with the following syntax:
+```
+Frontside text 1 (aka questions)
+?
+Backside text 1 (aka answer)
+
+Frontside text 2 (aka questions)
+?
+Backside text 2 (aka answer)
+``` 
+>[!tip] 
+>More infos about the spaced repetition plugin can be found here: 
+>https://github.com/st3v3nmw/obsidian-spaced-repetition
+
+### Setup OpenAI for quiz engine
+The quiz generator is based on OpenAPI for creation of questions based on content. The Quiz generator plugin is already included in this vault. The only thing you have to do is to set your own OpenAI API Key in the plugin settings:
+1. Go to vault settings:
+![Alt Image Text](./images/20240818220530.png)
+2. Go to quiz generator community plugin settings:
+![Alt Image Text](./images/20240818220653.png)
+3. Insert your own OpenAI API Key:
+![Alt Image Text](./images/20240818220800.png)
+
+>[!tip]
+>More infos about the quiz generator can be found here:
+>https://github.com/ECuiDev/obsidian-quiz-generator
+
+### Generate new quizzes and parameters
+1. Configure question types:
+	![Alt Image Text](./images/20240818221117.png)
+	Personally I did not have good experience with anything besides the Multiple choice questions.
+	
+2. Generate new questions:
+	- Klick the generator icon in the left hand menu: 
+	![Alt Image Text](./images/20240818221329.png)
+	- Add notes from which the quiz should be generated:
+	![Alt Image Text](./images/20240818221658.png)
+	- Selected the notes 
+	![Alt Image Text](./images/20240818221902.png)
+	- Now klick the generate button and enjoy your new quiz
+	![Alt Image Text](./images/20240818222103.png)
+	
